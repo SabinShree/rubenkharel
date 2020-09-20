@@ -38,7 +38,7 @@ axios.get(api).then(resp => {
   let diff = timeCalc(fetchedDate)
   let text;
   let col;
-  if (file == null || workSpace == null) {
+  if (file === 'null' || workSpace === 'null') {
     text = "IDLE"
     color = 'orange'
     file = 'No_File_Opened'
