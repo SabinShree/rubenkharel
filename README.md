@@ -6,7 +6,7 @@
 [![Twitter: @ru83nnn](https://img.shields.io/twitter/follow/ru83nnn?style=social)](https://twitter.com/ru83nnn) <br />
 [![Linkedin: rubenkharel](https://img.shields.io/badge/-rubenkharel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubenkharel/)](https://www.linkedin.com/in/rubenkharel/) <br />
 [![Ruben Kharel](https://img.shields.io/github/followers/rubenkharel?label=follow&style=social)](https://github.com/rubenkharel) <br /> <br />
-*[![FileName!](https://raster.shields.io/badge/Seen_2_hrs_and_54_min_ago_editing--green?style=for-the-badge)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-extract.js-yellow?style=for-the-badge&logoColor=orange&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-language_color_extension_[WSL:_kali_linux]-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
+*[![FileName!](https://raster.shields.io/badge/Seen_3_hrs_and_2_min_ago_editing--green?style=for-the-badge)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-extract.js-yellow?style=for-the-badge&logoColor=orange&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-language_color_extension_[WSL:_kali_linux]-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
 <br />
 **UNDERDEVLOPMENT**
 *Yes it's a realtime update! **(updates every 6 min)**. Automated with a VScode extension and Github Action. Information bridged with the help of Google Sheet API You can find the extension and setup instruction ~~here~~ after release.*
