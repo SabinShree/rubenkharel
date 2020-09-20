@@ -21,7 +21,7 @@ function timeCalc(fetchedDate){
   if (difference > 59){
     return rhours + "_hrs_and_" + rminutes; 
   }
-  
+   
 }
 
 // Function to send api request and everything inside it...
