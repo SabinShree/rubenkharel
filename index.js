@@ -43,7 +43,7 @@ axios.get(api).then(resp => {
     col = 'orange'
     file = 'No_File_Opened'
     workSpace = "IDLE"
-    diff = 69
+    diff = 69 // xD jk
   }
   else if (diff <= 6) {
     text = "Currently_Editing"
