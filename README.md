@@ -16,4 +16,4 @@
 ### Currently Learning <br />
 [![Python!](https://raster.shields.io/badge/Bootstrap--green?style=for-the-badge&logo=bootstrap)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/react--9cf?style=for-the-badge&logo=react)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/django--blue?style=for-the-badge&logo=django)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/LaTex--9cf?style=for-the-badge&logo=latex)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/markdown--green?style=for-the-badge&logo=markdown)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/mongo_db--lightgreen?style=for-the-badge&logoColor=lightgreen&logo=mongodb)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/sass--pink?style=for-the-badge&logoColor=pink&logo=sass)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/Express--red?style=for-the-badge&logoColor=red&logo=npm)](https://github.com/rubenkharel) 
 <br />
-*Readme Updated on: 02:55 PM, UTC 0*
+*Readme Updated on: 03:14 PM, UTC 0*
