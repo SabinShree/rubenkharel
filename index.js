@@ -19,7 +19,7 @@ function timeCalc(fetchedDate) {
   let minutes = (hours - rhours) * 60;
   let rminutes = Math.round(minutes);
   if (difference > 59) {
-    return rhours + "_hrs_and_" + rminutes;
+    return rhours + "hrs_and" + rminutes;
   }
 
 }
