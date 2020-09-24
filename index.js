@@ -80,9 +80,21 @@ axios.get(api).then(resp => {
 *Yes it's a realtime update! **(updates every 6 min)**. Automated with a VScode extension and Github Action. Information bridged with the help of Google Sheet API. You can find the extension and setup instruction [here](https://github.com/rubenkharel/README-VSCODE-Automation)*
 ### Stuff I play with!
 [
-![Python!](https://raster.shields.io/badge/Python--blue?style=for-the-badge&logo=python)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/javascript--yellow?style=for-the-badge&logo=javascript)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/Node.js--yelloorange?style=for-the-badge&logoColor=green&logo=node.js)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/Bash--brightgreen?style=for-the-badge&logoColor=Green&logo=gnu-bash)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/HTML5--critical?style=for-the-badge&logoColor=orange&logo=html5)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/CSS3--green?style=for-the-badge&logo=css3)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/Git--critical?style=for-the-badge&logoColor=orange&logo=git)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/GITHUB--green?style=for-the-badge&logo=github)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/Github_actions--9fc?style=for-the-badge&logoColor=deepskyblue&logo=github-actions)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/Linux--green?style=for-the-badge&logoColor=white&logo=linux)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/Bug_Bounty--green?style=for-the-badge&logo=hackerone)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/VS_CODE--blue?style=for-the-badge&logoColor=blue&logo=visual-studio-code)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/Google_API--blue?style=for-the-badge&logoColor=blue&logo=google-cloud)](https://github.com/rubenkharel)  
+![Python!](https://raster.shields.io/badge/Python--blue?style=for-the-badge&logo=python)](https://github.com/rubenkharel) 
+[![Javascript!](https://raster.shields.io/badge/javascript--yellow?style=for-the-badge&logo=javascript)](https://github.com/rubenkharel) 
+[![Nodejs!](https://raster.shields.io/badge/Node.js--yelloorange?style=for-the-badge&logoColor=green&logo=node.js)](https://github.com/rubenkharel) 
+[![Bash!](https://raster.shields.io/badge/Bash--brightgreen?style=for-the-badge&logoColor=Green&logo=gnu-bash)](https://github.com/rubenkharel) 
+[![HTML5!](https://raster.shields.io/badge/HTML5--critical?style=for-the-badge&logoColor=orange&logo=html5)](https://github.com/rubenkharel) 
+[![CSS3!](https://raster.shields.io/badge/CSS3--green?style=for-the-badge&logo=css3)](https://github.com/rubenkharel) 
+[![Git!](https://raster.shields.io/badge/Git--critical?style=for-the-badge&logoColor=orange&logo=git)](https://github.com/rubenkharel) 
+[![GithubAction!](https://raster.shields.io/badge/Github_actions--9fc?style=for-the-badge&logoColor=deepskyblue&logo=github-actions)](https://github.com/rubenkharel) 
+[![Linux!](https://raster.shields.io/badge/Linux--green?style=for-the-badge&logoColor=white&logo=linux)](https://github.com/rubenkharel) 
+[![BugBounty!](https://raster.shields.io/badge/Bug_Bounty--green?style=for-the-badge&logo=hackerone)](https://github.com/rubenkharel) 
 ### Currently Learning <br />
-[![Python!](https://raster.shields.io/badge/react--9cf?style=for-the-badge&logo=react)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/LaTex--9cf?style=for-the-badge&logo=latex)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/mongo_db--lightgreen?style=for-the-badge&logoColor=lightgreen&logo=mongodb)](https://github.com/rubenkharel) [![Python!](https://raster.shields.io/badge/Express--red?style=for-the-badge&logoColor=red&logo=npm)](https://github.com/rubenkharel) 
+[![Python!](https://raster.shields.io/badge/react--9cf?style=for-the-badge&logo=react)](https://github.com/rubenkharel) 
+[![Python!](https://raster.shields.io/badge/LaTex--9cf?style=for-the-badge&logo=latex)](https://github.com/rubenkharel) 
+[![Python!](https://raster.shields.io/badge/mongo_db--lightgreen?style=for-the-badge&logoColor=lightgreen&logo=mongodb)](https://github.com/rubenkharel) 
+[![Python!](https://raster.shields.io/badge/Express--red?style=for-the-badge&logoColor=red&logo=npm)](https://github.com/rubenkharel) 
 <br />
 *Readme Updated on: ${ctime}, UTC 0*
 `, 'utf8', function (err) {
