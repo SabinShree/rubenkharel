@@ -28,4 +28,4 @@
 [![react!](https://raster.shields.io/badge/react--9cf?style=for-the-badge&logo=react)](https://github.com/rubenkharel) 
 [![LaTex!](https://raster.shields.io/badge/LaTex--9cf?style=for-the-badge&logo=latex)](https://github.com/rubenkharel) 
 <br />
-*Readme Updated on: 10:00 PM, UTC 0*
+*Readme Updated on: 10:21 PM, UTC 0*
