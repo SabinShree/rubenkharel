@@ -6,7 +6,7 @@
 [![Twitter: @rub3nkhar3l](https://img.shields.io/twitter/follow/rub3nkhar3l?style=social)](https://twitter.com/rub3nkhar3l) <br />
 [![Linkedin: rubenkharel](https://img.shields.io/badge/-rubenkharel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubenkharel/)](https://www.linkedin.com/in/rubenkharel/) <br />
 [![Ruben Kharel](https://img.shields.io/github/followers/rubenkharel?label=follow&style=social)](https://github.com/rubenkharel) <br /> <br />
-*[![FileName!](https://raster.shields.io/badge/Seen_2hrs_and3_min_ago_editing--green?style=for-the-badge&color=red)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-grab.py-yellow?style=for-the-badge&logoColor=red&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-teliFlix_grab-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
+*[![FileName!](https://raster.shields.io/badge/Seen_2hrs_and27_min_ago_editing--green?style=for-the-badge&color=red)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-grab.py-yellow?style=for-the-badge&logoColor=red&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-teliFlix_grab-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
 <br />
 **BETA** <br />
 *Yes it's a realtime update! **(updates every 6 min)**. Automated with a VScode extension and Github Action. Information bridged with the help of Google Sheet API. You can find the extension and setup instruction [here](https://github.com/rubenkharel/README-VSCODE-Automation)*
@@ -28,4 +28,4 @@
 [![react!](https://raster.shields.io/badge/react--9cf?style=for-the-badge&logo=react)](https://github.com/rubenkharel) 
 [![LaTex!](https://raster.shields.io/badge/LaTex--9cf?style=for-the-badge&logo=latex)](https://github.com/rubenkharel) 
 <br />
-*Readme Updated on: 10:01 PM, UTC 0*
+*Readme Updated on: 10:24 PM, UTC 0*
