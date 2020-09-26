@@ -19,7 +19,7 @@ function timeCalc(fetchedDate) {
   let minutes = (hours - rhours) * 60;
   let rminutes = Math.round(minutes);
   if (difference > 59) {
-    return rhours + "hrs_and" + rminutes;
+    return rhours + "_hrs_and_" + rminutes;
   }
 
 }
@@ -50,7 +50,7 @@ axios.get(api).then(resp => {
     col = 'green'
   }
   else {
-    text = `Seen_${diff}_min_ago_editing`
+    text = `Seen_${diff}min_ago_editing`
     col = 'red'
   }
 
