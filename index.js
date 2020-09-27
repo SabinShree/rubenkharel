@@ -70,7 +70,7 @@ axios.get(api).then(resp => {
 ## Hello, there ![hi](https://raw.githubusercontent.com/rubenkharel/rubenkharel.github.io/master/namaskaram-mini.gif)
 *Welcome, I'm Ruben Kharel!* <br />
 *Student at [Islington College](https://islington.edu.np)* <br />
-*Lurking towards Secure & Full Stack web development* <br />
+*Building a webapp* <br />
 [![Twitter: @rub3nkhar3l](https://img.shields.io/twitter/follow/rub3nkhar3l?style=social)](https://twitter.com/rub3nkhar3l) <br />
 [![Linkedin: rubenkharel](https://img.shields.io/badge/-rubenkharel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubenkharel/)](https://www.linkedin.com/in/rubenkharel/) <br />
 [![Ruben Kharel](https://img.shields.io/github/followers/rubenkharel?label=follow&style=social)](https://github.com/rubenkharel) <br /> <br />
