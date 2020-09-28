@@ -3,10 +3,8 @@
 *Welcome, I'm Ruben Kharel!* <br />
 *Student at [Islington College](https://islington.edu.np)* <br />
 *Building a webapp* <br />
-[![Twitter: @rub3nkhar3l](https://img.shields.io/twitter/follow/rub3nkhar3l?style=social)](https://twitter.com/rub3nkhar3l) <br />
-[![Linkedin: rubenkharel](https://img.shields.io/badge/-rubenkharel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubenkharel/)](https://www.linkedin.com/in/rubenkharel/) <br />
-[![Ruben Kharel](https://img.shields.io/github/followers/rubenkharel?label=follow&style=social)](https://github.com/rubenkharel) <br /> <br />
-*[![FileName!](https://raster.shields.io/badge/Seen_20_hrs_and_53min_ago_editing--green?style=for-the-badge&color=red)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-doc.http-yellow?style=for-the-badge&logoColor=red&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-restapi_[WSL:_kali_linux]-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
+Follow me on Dev.to : [![Ruben Kharel's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/rubenk)
+*[![FileName!](https://raster.shields.io/badge/Seen_21_hrs_and_10min_ago_editing--green?style=for-the-badge&color=red)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-doc.http-yellow?style=for-the-badge&logoColor=red&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-restapi_[WSL:_kali_linux]-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
 <br />
 **BETA** <br />
 *Yes it's a realtime update! **(updates every 6 min)**. Automated with a VScode extension and Github Action. Information bridged with the help of Google Sheet API. You can find the extension and setup instruction [here](https://github.com/rubenkharel/README-VSCODE-Automation)*
@@ -27,5 +25,6 @@
 [![Express!](https://raster.shields.io/badge/Express--red?style=for-the-badge&logoColor=red&logo=npm)](https://github.com/rubenkharel) 
 [![react!](https://raster.shields.io/badge/react--9cf?style=for-the-badge&logo=react)](https://github.com/rubenkharel) 
 [![LaTex!](https://raster.shields.io/badge/LaTex--9cf?style=for-the-badge&logo=latex)](https://github.com/rubenkharel) 
+[![Typescript!](https://raster.shields.io/badge/Typescript--blue?style=for-the-badge&logo=typescript)](https://github.com/rubenkharel) 
 <br />
-*Readme Updated on: 08:58 PM, UTC 0*
+*Readme Updated on: 09:15 PM, UTC 0*
