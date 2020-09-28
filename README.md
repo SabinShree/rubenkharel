@@ -3,8 +3,14 @@
 *Welcome, I'm Ruben Kharel!* <br />
 *Student at [Islington College](https://islington.edu.np)* <br />
 *Building a webapp* <br />
-Follow me on Dev.to : [![Ruben Kharel's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/rubenk)
-*[![FileName!](https://raster.shields.io/badge/Seen_21_hrs_and_14min_ago_editing--green?style=for-the-badge&color=red)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-doc.http-yellow?style=for-the-badge&logoColor=red&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-restapi_[WSL:_kali_linux]-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
+
+You can Follow me on:<br />
+[![DEV Profile!](https://raster.shields.io/badge/Dev.to--black?style=for-the-badge&logo=dev.to)](https://dev.to/rubenk) 
+[![Twitter!](https://raster.shields.io/badge/Twitter--skyblue?style=for-the-badge&logo=twitter)](https://twitter.com/rub3nkhar3l) 
+[![Linkedin!](https://raster.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rubenkharel/) 
+
+
+*[![FileName!](https://raster.shields.io/badge/Seen_21_hrs_and_15min_ago_editing--green?style=for-the-badge&color=red)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-doc.http-yellow?style=for-the-badge&logoColor=red&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-restapi_[WSL:_kali_linux]-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
 <br />
 **BETA** <br />
 *Yes it's a realtime update! **(updates every 6 min)**. Automated with a VScode extension and Github Action. Information bridged with the help of Google Sheet API. You can find the extension and setup instruction [here](https://github.com/rubenkharel/README-VSCODE-Automation)*
@@ -27,4 +33,4 @@ Follow me on Dev.to : [![Ruben Kharel's DEV Profile](https://d2fltix0v2e0sb.clou
 [![LaTex!](https://raster.shields.io/badge/LaTex--9cf?style=for-the-badge&logo=latex)](https://github.com/rubenkharel) 
 [![Typescript!](https://raster.shields.io/badge/Typescript--blue?style=for-the-badge&logo=typescript)](https://github.com/rubenkharel) 
 <br />
-*Readme Updated on: 09:20 PM, UTC 0*
+*Readme Updated on: 09:21 PM, UTC 0*
