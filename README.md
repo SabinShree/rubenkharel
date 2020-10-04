@@ -10,7 +10,7 @@ You can Follow me on:<br />
 [![Linkedin!](https://raster.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rubenkharel/) 
 
 
-*[![FileName!](https://raster.shields.io/badge/Seen_6_hrs_and_31min_ago_editing--green?style=for-the-badge&color=red)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-README.md-yellow?style=for-the-badge&logoColor=red&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-reconwithme_[WSL:_kali_linux]-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
+*[![FileName!](https://raster.shields.io/badge/Seen_6_hrs_and_41min_ago_editing--green?style=for-the-badge&color=red)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-README.md-yellow?style=for-the-badge&logoColor=red&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-reconwithme_[WSL:_kali_linux]-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
 <br />
 **BETA** <br />
 *Yes it's a realtime update! **(updates every 6 min)**. Automated with a VScode extension and Github Action. Information bridged with the help of Google Sheet API. You can find the extension and setup instruction [here](https://github.com/rubenkharel/README-VSCODE-Automation)*
@@ -33,4 +33,4 @@ You can Follow me on:<br />
 [![LaTex!](https://raster.shields.io/badge/LaTex--9cf?style=for-the-badge&logo=latex)](https://github.com/rubenkharel) 
 [![Typescript!](https://raster.shields.io/badge/Typescript--blue?style=for-the-badge&logo=typescript)](https://github.com/rubenkharel) 
 <br />
-*Readme Updated on: 12:31 PM, UTC 0*
+*Readme Updated on: 12:41 PM, UTC 0*
