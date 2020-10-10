@@ -57,10 +57,10 @@ axios.get(api).then(resp => {
 
   // Normalize text for url support
   var str1 = file;
-  var replaced1 = str1.split(' ').join('+');
+  var replaced1 = str1.replace(" ","+");
   var str2 = workSpace;
-  var replaced2 = str2.split(' ').join('_');
-  var replaced2 = replaced2.split('-').join('_'); //nice emojis ;)
+  var replaced2 = str2.replace(" ","_");
+  var replaced2 = replaced2.replace('-',"_"); //nice emojis ;)
 
   // get new data to keep it running.. 
   var ctime = new Date().toLocaleTimeString([], { hour: '2-digit', minute: "2-digit", hour12: true });
