@@ -2,7 +2,7 @@
 ## Hello, there ![hi](https://raw.githubusercontent.com/rubenkharel/rubenkharel.github.io/master/namaskaram-mini.gif)
 *Welcome, I'm Ruben Kharel!* <br />
 *Student at [Islington College](https://islington.edu.np)* <br />
-*Building a webapp* <br /> 
+*Building a webapp* <br />
 
 You can Follow me on:<br />
 [![DEV Profile!](https://raster.shields.io/badge/Dev.to--black?style=for-the-badge&logo=dev.to)](https://dev.to/rubenk) 
@@ -10,7 +10,7 @@ You can Follow me on:<br />
 [![Linkedin!](https://raster.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rubenkharel/) 
 
 
-*[![FileName!](https://raster.shields.io/badge/Seen_445116_hrs_and_59min_ago_editing--green?style=for-the-badge&color=red)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-TESTING-yellow?style=for-the-badge&logoColor=red&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-TEST_MODE-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
+*[![FileName!](https://raster.shields.io/badge/Currently_Editing--green?style=for-the-badge&color=green)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-index.js-yellow?style=for-the-badge&logoColor=green&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-versionIdentify-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
 <br />
 **BETA** <br />
 *Yes it's a realtime update! **(updates every 6 min)**. Automated with a VScode extension and Github Action. Information bridged with the help of Google Sheet API. You can find the extension and setup instruction [here](https://github.com/rubenkharel/README-VSCODE-Automation)*
@@ -33,4 +33,4 @@ You can Follow me on:<br />
 [![LaTex!](https://raster.shields.io/badge/LaTex--9cf?style=for-the-badge&logo=latex)](https://github.com/rubenkharel) 
 [![Typescript!](https://raster.shields.io/badge/Typescript--blue?style=for-the-badge&logo=typescript)](https://github.com/rubenkharel) 
 <br />
-*Readme Updated on: 12:59 PM, UTC 0*
+*Readme Updated on: 01:05 PM, UTC 0*
