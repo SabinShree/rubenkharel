@@ -1,4 +1,4 @@
-
+ 
 ## Hello, there ![hi](https://raw.githubusercontent.com/rubenkharel/rubenkharel.github.io/master/namaskaram-mini.gif)
 *Welcome, I'm Ruben Kharel!* <br />
 *Student at [Islington College](https://islington.edu.np)* <br />
@@ -12,8 +12,7 @@ You can Follow me on:<br />
 
 *[![FileName!](https://raster.shields.io/badge/Seen_18_hrs_and_22min_ago_editing--green?style=for-the-badge&color=red)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-index.js-yellow?style=for-the-badge&logoColor=red&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-versionIdentify-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
 <br />
-**BETA** <br />
-*Yes it's a realtime update! **(updates every 6 min)**. Automated with a VScode extension and Github Action. Information bridged with the help of Google Sheet API. You can find the extension and setup instruction [here](https://github.com/rubenkharel/README-VSCODE-Automation)*
+
 ### Stuff I play with!
 [
 ![Python!](https://raster.shields.io/badge/Python--blue?style=for-the-badge&logo=python)](https://github.com/rubenkharel) 
