@@ -1,5 +1,5 @@
 
-## Hello, there ![hi](https://raw.githubusercontent.com/rubenkharel/rubenkharel.github.io/master/namaskaram-mini.gif)
+## Hello, there ![hi](https://raw.githubusercontent.com/rubenkharel/rubenkharel.github.io/master/namaskaram-mini.gif) 
 *Welcome, I'm Ruben Kharel!* <br />
 *Student at [Islington College](https://islington.edu.np)* <br />
 *Building a webapp* <br />
