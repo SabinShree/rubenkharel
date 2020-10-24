@@ -10,7 +10,7 @@ You can Follow me on:<br />
 [![Linkedin!](https://raster.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rubenkharel/) 
 
 ### What I am up to?
-*[![FileName!](https://raster.shields.io/badge/Seen_48_hrs_and_20min_ago_editing--green?style=for-the-badge&color=red)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-colors.py-yellow?style=for-the-badge&logoColor=red&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-eRekon-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
+*[![FileName!](https://raster.shields.io/badge/Seen_48_hrs_and_28min_ago_editing--green?style=for-the-badge&color=red)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-colors.py-yellow?style=for-the-badge&logoColor=red&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-eRekon-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
 <br />
 ### Stuff I play with!
 [
@@ -31,4 +31,4 @@ You can Follow me on:<br />
 [![LaTex!](https://raster.shields.io/badge/LaTex--9cf?style=for-the-badge&logo=latex)](https://github.com/rubenkharel) 
 [![Typescript!](https://raster.shields.io/badge/Typescript--blue?style=for-the-badge&logo=typescript)](https://github.com/rubenkharel) 
 <br />
-*Readme Updated on: 11:33 AM, UTC 0*
+*Readme Updated on: 11:41 AM, UTC 0*
