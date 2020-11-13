@@ -77,7 +77,9 @@ You can Follow me on:<br />
 
 ### What I am up to?
 *[![FileName!](https://raster.shields.io/badge/${text}--green?style=for-the-badge&color=${col})](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-${file}-yellow?style=for-the-badge&logoColor=${col}&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-${workSpace}-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
+
 <em>Is in beta</em>
+
 <br />
 ### Stuff I play with!
 [
