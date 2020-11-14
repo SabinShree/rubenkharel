@@ -50,16 +50,16 @@ axios.get(api).then(resp => {
     col = 'green'
   }
   else {
-    text = `Seen_${diff}min_ago_editing`
+    text = `Seen_${diff}_min_ago_editing`
     col = 'red'
   }
 
 
   // Normalize text for url support
-  file = file.replace(" ","_");
-  workSpace = workSpace.replace(" ","_");
-  workSpace = workSpace.replace('-',"_");
-  workSpace = workSpace.replace(' ',"_"); //nice emojis ;)
+  file = file.split(" ").join("_");
+  workSpace = workSpace.split(" ").join("_");
+  workSpace = workSpace.split('-').join("_");
+
   // get new data to keep it running.. 
   var ctime = new Date().toLocaleTimeString([], { hour: '2-digit', minute: "2-digit", hour12: true });
   console.log(ctime)
@@ -77,6 +77,7 @@ You can Follow me on:<br />
 
 ### What I am up to?
 *[![FileName!](https://raster.shields.io/badge/${text}--green?style=for-the-badge&color=${col})](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-${file}-yellow?style=for-the-badge&logoColor=${col}&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-${workSpace}-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
+<br />
 <em>Is in beta</em>
 <br />
 ### Stuff I play with!
