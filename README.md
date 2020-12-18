@@ -14,7 +14,7 @@ You can Follow me on:<br />
 <br />
 <em>beta version</em>
 <br />
-### Stuff I play with!
+### Stuff I play with! 
 [
 ![Python!](https://raster.shields.io/badge/Python--blue?style=for-the-badge&logo=python)](https://github.com/rubenkharel) 
 [![Javascript!](https://raster.shields.io/badge/javascript--yellow?style=for-the-badge&logo=javascript)](https://github.com/rubenkharel) 
