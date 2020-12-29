@@ -83,7 +83,7 @@ You can Follow me on:<br />
 ### Stuff I play with!
 [![Python!](https://raster.shields.io/badge/Python--blue?style=for-the-badge&logo=python)](https://github.com/rubenkharel) 
 [![Javascript!](https://raster.shields.io/badge/javascript--yellow?style=for-the-badge&logo=javascript)](https://github.com/rubenkharel) 
-[![GoLang!](https://raster.shields.io/badge/Github_actions--9fc?style=for-the-badge&logoColor=9fc&logo=go)](https://github.com/rubenkharel)
+[![GoLang!](https://raster.shields.io/badge/GoLang--9fc?style=for-the-badge&logoColor=9fc&logo=go)](https://github.com/rubenkharel)
 [![MongoDB!](https://raster.shields.io/badge/mongo_db--lightgreen?style=for-the-badge&logoColor=lightgreen&logo=mongodb)](https://github.com/rubenkharel) 
 [![Express!](https://raster.shields.io/badge/Express--red?style=for-the-badge&logoColor=red&logo=npm)](https://github.com/rubenkharel) 
 [![Nodejs!](https://raster.shields.io/badge/Node.js--yelloorange?style=for-the-badge&logoColor=green&logo=node.js)](https://github.com/rubenkharel) 
