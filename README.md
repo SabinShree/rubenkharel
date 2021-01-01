@@ -10,7 +10,7 @@ You can Follow me on:<br />
 [![Linkedin!](https://raster.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rubenkharel/) 
 
 ### What I am up to?
-*[![FileName!](https://raster.shields.io/badge/IDLE--green?style=for-the-badge&color=orange)](https://github.com/rubenkharel/readme-vscode-automation)[![FileName!](https://raster.shields.io/badge/-No_File_Opened-yellow?style=for-the-badge&logoColor=orange&color=white&logo=canonical)](https://github.com/rubenkharel/readme-vscode-automation)[![WorkSpace!](https://raster.shields.io/badge/VScode-IDLE-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel/readme-vscode-automation)*
+*[![FileName!](https://raster.shields.io/badge/Currently_Editing--green?style=for-the-badge&color=green)](https://github.com/rubenkharel/readme-vscode-automation)[![FileName!](https://raster.shields.io/badge/-index.js-yellow?style=for-the-badge&logoColor=green&color=white&logo=canonical)](https://github.com/rubenkharel/readme-vscode-automation)[![WorkSpace!](https://raster.shields.io/badge/VScode-learnReact-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel/readme-vscode-automation)*
 <br />
 <em>beta version</em>
 <br />
@@ -33,4 +33,4 @@ You can Follow me on:<br />
 [![LaTex!](https://raster.shields.io/badge/LaTex--9cf?style=for-the-badge&logo=latex)](https://github.com/rubenkharel) 
 [![Typescript!](https://raster.shields.io/badge/Typescript--blue?style=for-the-badge&logo=typescript)](https://github.com/rubenkharel) 
 <br />
-*Readme Updated on: 08:01 PM, UTC 00:00*
+*Readme Updated on: 08:32 PM, UTC 00:00*
