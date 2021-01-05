@@ -78,7 +78,7 @@ You can Follow me on:<br />
 ### What I am up to?
 *[![FileName!](https://raster.shields.io/badge/${text}--green?style=for-the-badge&color=${col})](https://github.com/rubenkharel/readme-vscode-automation)[![FileName!](https://raster.shields.io/badge/-${file}-yellow?style=for-the-badge&logoColor=${col}&color=white&logo=canonical)](https://github.com/rubenkharel/readme-vscode-automation)[![WorkSpace!](https://raster.shields.io/badge/VScode-${workSpace}-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel/readme-vscode-automation)*
 <br />
-<em>[beta version](https://github.com/rubenkharel/rubenkharel/blob/master/index.js)</em>
+<em>[beta version](https://github.com/rubenkharel/readme-vscode-automation)</em>
 <br />
 ### Stuff I play with!
 [![Python!](https://raster.shields.io/badge/Python--blue?style=for-the-badge&logo=python)](https://github.com/rubenkharel) 
