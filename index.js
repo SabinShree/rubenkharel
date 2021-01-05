@@ -87,6 +87,9 @@ You can Follow me on:<br />
 [![Express!](https://raster.shields.io/badge/Express--red?style=for-the-badge&logoColor=red&logo=npm)](https://github.com/rubenkharel) 
 [![react!](https://raster.shields.io/badge/react--9cf?style=for-the-badge&logo=react)](https://github.com/rubenkharel) 
 [![Nodejs!](https://raster.shields.io/badge/Node.js--yelloorange?style=for-the-badge&logoColor=green&logo=node.js)](https://github.com/rubenkharel) 
+
+[![Vim!](https://raster.shields.io/badge/Vim--brightgreen?style=for-the-badge&logoColor=Green&logo=vim)](https://github.com/rubenkharel) 
+
 [![Bash!](https://raster.shields.io/badge/Bash--brightgreen?style=for-the-badge&logoColor=Green&logo=gnu-bash)](https://github.com/rubenkharel) 
 [![HTML5!](https://raster.shields.io/badge/HTML5--critical?style=for-the-badge&logoColor=orange&logo=html5)](https://github.com/rubenkharel) 
 [![CSS3!](https://raster.shields.io/badge/CSS3--green?style=for-the-badge&logo=css3)](https://github.com/rubenkharel) 
