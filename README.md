@@ -12,7 +12,7 @@ You can Follow me on:<br />
 ### What I am up to?
 *[![FileName!](https://raster.shields.io/badge/Currently_Editing--green?style=for-the-badge&color=green)](https://github.com/rubenkharel/readme-vscode-automation)[![FileName!](https://raster.shields.io/badge/-ValidationForm.js-yellow?style=for-the-badge&logoColor=green&color=white&logo=canonical)](https://github.com/rubenkharel/readme-vscode-automation)[![WorkSpace!](https://raster.shields.io/badge/VScode-benadwad-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel/readme-vscode-automation)*
 <br />
-<em>[beta version](https://github.com/rubenkharel/rubenkharel/blob/master/index.js)</em>
+<em>[beta version](https://github.com/rubenkharel/readme-vscode-automation)</em>
 <br />
 ### Stuff I play with!
 [![Python!](https://raster.shields.io/badge/Python--blue?style=for-the-badge&logo=python)](https://github.com/rubenkharel) 
@@ -33,4 +33,4 @@ You can Follow me on:<br />
 [![MongoDB!](https://raster.shields.io/badge/mongo_db--lightgreen?style=for-the-badge&logoColor=lightgreen&logo=mongodb)](https://github.com/rubenkharel) 
 [![Typescript!](https://raster.shields.io/badge/Typescript--blue?style=for-the-badge&logo=typescript)](https://github.com/rubenkharel) 
 <br />
-*Readme Updated on: 07:14 PM, UTC 00:00*
+*Readme Updated on: 07:16 PM, UTC 00:00*
