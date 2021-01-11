@@ -33,4 +33,4 @@ You can Follow me on:<br />
 ### Currently Learning <br />
 [![Typescript!](https://raster.shields.io/badge/Typescript--blue?style=for-the-badge&logo=typescript)](https://github.com/rubenkharel) 
 <br />
-*Readme Updated on: 09:03 AM, UTC 00:00*
+*Readme Updated on: 09:51 AM, UTC 00:00*
