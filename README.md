@@ -10,7 +10,7 @@ You can Follow me on:<br />
 [![Linkedin!](https://raster.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rubenkharel/) 
 
 ### What I am up to?
-*[![FileName!](https://raster.shields.io/badge/Currently_Editing--green?style=for-the-badge&color=green)](https://github.com/rubenkharel/readme-vscode-automation)[![FileName!](https://raster.shields.io/badge/-Table.js-yellow?style=for-the-badge&logoColor=green&color=white&logo=canonical)](https://github.com/rubenkharel/readme-vscode-automation)[![WorkSpace!](https://raster.shields.io/badge/VScode-eReKonInterface-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel/readme-vscode-automation)*
+*[![FileName!](https://raster.shields.io/badge/Currently_Editing--green?style=for-the-badge&color=green)](https://github.com/rubenkharel/readme-vscode-automation)[![FileName!](https://raster.shields.io/badge/-package.json-yellow?style=for-the-badge&logoColor=green&color=white&logo=canonical)](https://github.com/rubenkharel/readme-vscode-automation)[![WorkSpace!](https://raster.shields.io/badge/VScode-eReKonInterface-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel/readme-vscode-automation)*
 <br />
 <em>[beta version](https://github.com/rubenkharel/readme-vscode-automation)</em>
 <br />
@@ -33,4 +33,4 @@ You can Follow me on:<br />
 ### Currently Learning <br />
 [![Typescript!](https://raster.shields.io/badge/Typescript--blue?style=for-the-badge&logo=typescript)](https://github.com/rubenkharel) 
 <br />
-*Readme Updated on: 11:54 PM, UTC 00:00*
+*Readme Updated on: 01:14 AM, UTC 00:00*
